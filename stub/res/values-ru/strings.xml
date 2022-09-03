@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App Name  -->
-    <string name="app_name">Темы Arrow</string>
+    <string name="app_name">Темы Axiom</string>
     <!-- Color section -->
     <string name="bundle1_color_name">Карбон</string>
     <string name="bundle2_color_name">Бумага</string>

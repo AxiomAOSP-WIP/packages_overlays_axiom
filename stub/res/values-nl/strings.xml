@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App Name  -->
-    <string name="app_name">Arrow thema\'s</string>
+    <string name="app_name">Axiom thema\'s</string>
     <!-- Color section -->
     <string name="bundle1_color_name">Koolstofvezel</string>
     <string name="bundle2_color_name">Papier</string>
